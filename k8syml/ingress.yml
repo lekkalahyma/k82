@@ -5,7 +5,7 @@ metadata:
  namespace: upright
 spec:
  rules:
- - host: upright.lekkalahyma.xyz
+ - host: testing.bharathidevops.xyz
    http:
      paths:
      - path:
